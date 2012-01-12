@@ -6,6 +6,8 @@ balances.  Simply create a few accounts, define the periodic deposits and
 withdrawls from those accounts and then run the model over a given date range.  
 Piece of cake!
 
+It is written by Geoff Kloess <geoff.kloess@gmail.com>, please contact me if you 
+find any bugs.
 
 Example
 -------
